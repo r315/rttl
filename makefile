@@ -6,7 +6,7 @@
 #SRC = tone
 #SRC = pwmaudio
 SRC = soundTest
-PRJ = sounds
+PRJ = rttl
 MCU = 16F73
 CC = picc.exe
 
